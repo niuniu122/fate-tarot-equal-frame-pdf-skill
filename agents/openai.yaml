@@ -1,0 +1,7 @@
+interface:
+  display_name: "命运塔罗主体优先刀模 PDF"
+  short_description: "先提取完整主体，再生成固定尺寸与同卡颜色出血"
+  default_prompt: "Use $fate-tarot-equal-frame-pdf to extract each card's complete framed subject and create a verified fixed-size print PDF with bleed sampled from that card's own exterior."
+
+policy:
+  allow_implicit_invocation: true

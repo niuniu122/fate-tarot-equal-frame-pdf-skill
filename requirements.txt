@@ -1,0 +1,5 @@
+numpy
+Pillow
+scipy
+pypdf>=6,<7
+pypdfium2>=4.30,<6
